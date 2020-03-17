@@ -6,3 +6,4 @@ Je položena otázka poouze s jednou správnou odpovědí. Když jí hráč zodp
 
 Hráč má 3x možnost 50:50 (jako náhradu telefonátu a otázky z publika)
  
+![](Desktop-mockup.jpg)
