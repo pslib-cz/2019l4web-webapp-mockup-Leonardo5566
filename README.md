@@ -33,4 +33,4 @@ Hráč má 3x možnost nápovědy formou odrstranění 2 chybných otázek a ša
 ## Reakce aplikace na správnou a špatnou odpověd
 
 
-![](ReakceNaOdpoved.jpg)
+![](ReakceNaOdpoved.JPG)
