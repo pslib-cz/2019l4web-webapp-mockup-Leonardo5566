@@ -29,3 +29,8 @@ Hráč má 3x možnost nápovědy formou odrstranění 2 chybných otázek a ša
 *  otázka 3 -       300
 *  otázka 2 -       200
 *  otázka 1 -       100
+
+## Reakce aplikace na správnou a špatnou odpověd
+
+
+![](ReakceNaOdpoved.jpg)
