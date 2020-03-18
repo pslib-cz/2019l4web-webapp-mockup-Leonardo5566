@@ -12,7 +12,7 @@ Hráč má 3x možnost nápovědy formou odrstranění 2 chybných otázek a ša
 ![](Desktop-mockup.jpg)
 
 
-##hodnoty výher
+## hodnoty výher
 
 * 15. otázka - 1 000 000
 * 14. otázka -   500 000
