@@ -15,17 +15,17 @@ Hráč má 3x možnost nápovědy formou odrstranění 2 chybných otázek a ša
 ## Hodnoty výher
 
 * otázka 15 - 1 000 000
-* 14. otázka -   500 000
-* 13. otázka -   250 000
-* 12. otázka -   125 000
-* 11. otázka -    64 000
-* **10. otázka -    32 000**
-*  9. otázka -    16 000
-*  8. otázka -     8 000
-*  7. otázka -     4 000
-*  6. otázka -     2 000
-* **5. otázka -     1 000**
-*  4. otázka -       500
-*  3. otázka -       300
-*  2. otázka -       200
-*  1. otázka -       100
+* otázka 14 -   500 000
+* otázka 13 -   250 000
+* otázka 12 -   125 000
+* otázka 11 -    64 000
+* **otázka 10 -    32 000**
+*  otázka 9 -    16 000
+*  otázka 8 -     8 000
+*  otázka 7 -     4 000
+*  otázka 6 -     2 000
+* **otázka 5 -     1 000**
+*  otázka 4 -       500
+*  otázka 3 -       300
+*  otázka 2 -       200
+*  otázka 1 -       100
