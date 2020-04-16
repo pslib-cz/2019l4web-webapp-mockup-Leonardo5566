@@ -2,11 +2,13 @@
 
 redesign hry milionář (Who wants to be a millionaire?)
 
+## Pravidla hry
+
 Pravidla jsou snadná. Je položena otázka poouze s jednou správnou odpovědí. Když jí hráč zodpoví správně, postupuje do dalšího kola až se nakonec dopracuje k poslední otázce za 1 000 000 bodů/korun/dolarů. Jestliže zvolí chybnou odpověď prohrává a musí začít od záchyného bodu, které jsou 0, 1000 a 32 000. Otázek je 15 a jejich obtížnost postupem hrou stoupá.
 
 Hráč má 3x možnost nápovědy formou odrstranění 2 chybných otázek a šance zůstane "50 na 50" 
 (jako náhradu telefonátu a otázky z publika)
- 
+
  
  
 ![](Desktop-mockup.jpg)
@@ -34,3 +36,16 @@ Hráč má 3x možnost nápovědy formou odrstranění 2 chybných otázek a ša
 
 
 ![](ReakceNaOdpoved.JPG)
+
+
+
+## Fungování hry
+
+### Úvodní stánka
+
+První stánka slouží pouze jako landing page.
+Je zde pouze název hry "Milionář", uprostřed velké tlačítko "Hrát" a ve footeru umístěné tlačítko "O hře", kde budou vysvětleny pravidla hry (viz nadpis "Pravidla hry")
+
+### Hra
+
+Po kliknutí na tlačtko hrát na hlavní stránce se spustí hra.
