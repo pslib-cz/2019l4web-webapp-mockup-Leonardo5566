@@ -28,12 +28,6 @@ Hráč má 3x možnost nápovědy formou odrstranění 2 chybných otázek a ša
 *  otázka 2 -       200
 *  otázka 1 -       100
 
-## Reakce aplikace na správnou a špatnou odpověd
-
-
-![](ReakceNaOdpoved.JPG)
-
-
 
 ## Fungování hry
 
@@ -67,3 +61,7 @@ Hra končí špatnou odpovědí nebo dosažení hodnoty 1 000 000.
 Při úspěšném dokončení všech otázek pozadí zezelená. (#B5EE9B) 
 
 ![](Desktop-mockup.jpg)
+
+## Reakce aplikace na správnou a špatnou odpověd
+
+![](ReakceNaOdpoved.JPG)
