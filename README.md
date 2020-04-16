@@ -9,12 +9,8 @@ Pravidla jsou snadná. Je položena otázka poouze s jednou správnou odpovědí
 Hráč má 3x možnost nápovědy formou odrstranění 2 chybných otázek a šance zůstane "50 na 50" 
 (jako náhradu telefonátu a otázky z publika)
 
- 
- 
-![](Desktop-mockup.jpg)
-
-
 ## Hodnoty výher
+*Všechny výhry jsou pouze virtuální*
 
 * **otázka 15 - 1 000 000**
 * otázka 14 -   500 000
@@ -48,4 +44,13 @@ Je zde pouze název hry "Milionář", uprostřed velké tlačítko "Hrát" a ve 
 
 ### Hra
 
-Po kliknutí na tlačtko hrát na hlavní stránce se spustí hra.
+Po kliknutí na tlačtko **"Hrát"** na hlavní stránce se spustí hra.
+
+Uprostřed na hlavním panelu bude položena otázka. 
+
+#### Menu
+Na levé straně tlačítko **"Menu"**, které slouží pro ukončení hry a návratu na landing page.
+#### Nápověda
+Zárověn je zde tlačítko **"Nápověda"** která bude pro ulehčení fungovat jako 3x šance 50:50. To znamená, že po kliknutí na toto tlačítko zmízí polovina odpovědí (nesprávných samozřejmě). Dále také jedna ze tří ikon změní barvu z zelené (#B5EE9B) na červenou (#EE9B9B).
+
+![](Desktop-mockup.jpg)
