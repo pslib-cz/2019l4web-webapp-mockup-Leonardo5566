@@ -42,15 +42,28 @@ Hráč má 3x možnost nápovědy formou odrstranění 2 chybných otázek a ša
 První stánka slouží pouze jako landing page.
 Je zde pouze název hry "Milionář", uprostřed velké tlačítko "Hrát" a ve footeru umístěné tlačítko "O hře", kde budou vysvětleny pravidla hry (viz nadpis "Pravidla hry")
 
-### Hra
 
-Po kliknutí na tlačtko **"Hrát"** na hlavní stránce se spustí hra.
-
-Uprostřed na hlavním panelu bude položena otázka. 
-
-#### Menu
+### Menu
 Na levé straně tlačítko **"Menu"**, které slouží pro ukončení hry a návratu na landing page.
-#### Nápověda
+
+### Nápověda
 Zárověn je zde tlačítko **"Nápověda"** která bude pro ulehčení fungovat jako 3x šance 50:50. To znamená, že po kliknutí na toto tlačítko zmízí polovina odpovědí (nesprávných samozřejmě). Dále také jedna ze tří ikon změní barvu z zelené (#B5EE9B) na červenou (#EE9B9B).
+
+### Otázky
+Uprostřed na hlavním panelu bude položena otázka. Otázky mají přidělenou obtížnost, tudíž by měly být pokládány v daném pořadí.
+
+### Odpovědi
+Pouze jedna odpověď je správná. Zobrazení odpovědí může být náhodné. 
+#### Správná a špatná 
+Správně - **tlačítko** zezelená (#B5EE9B)
+Špatně - **pozadí stránky** zčervená (#EE9B9B)
+
+### Stupnice výhry
+Na pravé straně je ukazatel momentální výhry.
+Ikona šipky s číselnou hodnotou se posouvají směrem nahoru.
+
+### Výhra
+Hra končí špatnou odpovědí nebo dosažení hodnoty 1 000 000.
+Při úspěšném dokončení všech otázek pozadí zezelená. (#B5EE9B) 
 
 ![](Desktop-mockup.jpg)
