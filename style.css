@@ -1,8 +1,151 @@
-body{
-    background-color: #FBFBFB;
+html, body{
     margin: 0;
     padding: 0;
+    background-color: #FBFBFB;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
+    overflow: hidden;
+}
+/*_____________________NAV - MENU________________________________*/
+nav{
+    margin-top: 10vh;
+    width: 15vw;
+    text-align: center;
+    position: absolute;
+}
+nav > a{
+    text-decoration: none;
+    color: #000;
 }
 
+nav > a:hover{
+    font-weight: 700;
+}
+/*______________________NAPOVEDA_______________________________*/
+
+#hint{
+    margin-top: 20vh;
+    width: 15vw;
+    text-align: center;
+    position: absolute;
+}
+#hint a{
+    text-decoration: none;
+    color: #000;
+}
+
+#hint > a:hover{
+    font-weight: 700;
+}
+
+#hint img{
+    display: block;
+    margin: auto;
+    padding: 1rem 0;
+    height: 32px;
+    width: 32px;
+}
+
+/*______________________PANEL OTAZKY_______________________________*/
+#banner{
+    width: 50vw;
+    height: 30vh;
+    background-color: #FFFFFF;
+    margin: auto;
+    padding: 0;
+    border-radius: 0 0 1rem 1rem; 
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+#otazka{
+    text-align: center;
+    margin: 0 2rem 0 2rem;
+    padding-top: 15vh;
+    font-size: 22pt;
+    font-weight: 700;
+    background-color: transparent;
+}
+
+h1{
+    text-align: center;
+    margin: 0 2rem 0 2rem;
+    padding-top: 5vh;
+    font-size: 96pt;
+    letter-spacing: -12px;
+    font-weight: 700;
+    background-color: transparent;
+}
+/*_______________________ODPOVEDI______________________________*/
+#display{
+    width: 50vw;
+    height: 65vh;
+    background-color: transparent;
+    margin: auto;
+    padding: 5vh 0 0 0;
+}
+
+.odpoved{
+    background-color: #FFFFFF;
+    width: 50vw;
+    display: block;
+    text-align: center;
+    border-radius: 1rem; 
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+    padding: 2rem 0;
+    margin: 1rem 0;
+    font-size: 16pt;
+    text-decoration: none;
+    color: #000000;
+}
+
+.odpoved:hover{
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.3);
+    transition: 0.5s;
+}
+/*_______________________POSTRANÍ UKAZATEL SCORE______________________________*/
+
+#score{
+    position: absolute;
+    background-color: transparent;
+    height: 100vh;
+    width: 25vw;
+    margin-left: 75vw;
+}
+
+#stupnice{
+    width: 0.5vw;
+    height: 80vh;
+    border-radius: 1rem; 
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+    margin-top: 10vh;
+    margin-left: 20vw;
+    background: rgb(238,155,155);
+    background: linear-gradient(180deg, rgba(238,155,155,1) 0%, rgba(238,220,155,1) 50%, rgba(196,238,155,1) 100%);
+}
+
+#score p{
+    position: absolute;
+    margin-left: 8vw;
+    text-align: right;
+    width: 5vw;
+}
+
+#score img{
+    position: absolute;
+    margin-top: 50vh;
+    margin-left: 15vw;
+}
+
+#mil{
+    margin-top: 10vh;
+}
+
+#zero{
+    margin-top: 90vh;
+    transform: translate(0, -100%)
+}
+
+#number{
+    margin-top: 50vh;
+}
